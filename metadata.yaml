@@ -1,5 +1,8 @@
 _repo: Madam-How-and-Lady-Why--Or-First-Lessons-in-Earth-Lore-for-Children_1697
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kingsley, Charles
@@ -15,6 +18,8 @@ description: 'Madam How and Lady Why: First Lessons in Earth Lore for Children r
   a classic juvenile work by Charles Kingsley. It deals with natural phenomenon and
   gives readers a basic understanding of geologic and earth knowledge. An excellent
   book for children and those interested in the writings of Charles Kingsley.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1697#Madam-How-and-Lady-Why--Or-First-Lessons-in-Earth-Lore-for-Children
 gutenberg_issued: '1999-04-01'
 gutenberg_type: Text
 identifiers:
